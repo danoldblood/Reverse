@@ -1,0 +1,4 @@
+../Core/Src/pitch.c:3:6:pitchFV1_init	1
+../Core/Src/pitch.c:14:6:pitchFV1_setShiftDecimal	1
+../Core/Src/pitch.c:19:6:pitchFV1_setShiftSemitone	26
+../Core/Src/pitch.c:74:7:pitchFV1_inOut	13

@@ -1,0 +1,9 @@
+../Core/Src/statevariable.c:23:6:statevariable_init	1
+../Core/Src/statevariable.c:38:6:statevariable_input	2
+../Core/Src/statevariable.c:57:7:statevariable_getHP	1
+../Core/Src/statevariable.c:61:7:statevariable_getBP	1
+../Core/Src/statevariable.c:65:7:statevariable_getLP	1
+../Core/Src/statevariable.c:69:7:statevariable_getBR	1
+../Core/Src/statevariable.c:73:6:statevariable_setFC	1
+../Core/Src/statevariable.c:78:6:statevariable_setQ	1
+../Core/Src/statevariable.c:82:6:statevariable_setOverclock	1

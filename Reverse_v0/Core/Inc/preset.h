@@ -1,0 +1,62 @@
+/*
+ * preset.h
+ *
+ *  Created on: May 3, 2024
+ *      Author: danspechacek
+ */
+
+#ifndef INC_PRESET_H_
+#define INC_PRESET_H_
+
+#define PRESETARRAYLENGTH 	45
+
+#define RATEINDEX			0
+#define DEPTHINDEX			1
+#define SHAPEINDEX 			2
+#define DISSOLVEINDEX 			3
+#define CHANCEINDEX			4
+#define SMEARINDEX			5
+#define GLITCHINDEX			6
+#define TIMEINDEX			7
+#define FILTERINDEX 			8
+#define MIXINDEX			9
+#define OFFSETINDEX 			10
+#define SUBRATEINDEX		 	11
+#define SUBTIMEINDEX				12
+#define VOLUMEINDEX				13
+#define MODESINDEX				14
+#define RATEDIRINDEX 		15
+#define RATEHEELINDEX 	16
+#define RATETOEINDEX 		17
+#define DEPTHDIRINDEX 		18
+#define DEPTHHEELINDEX 		19
+#define DEPTHTOEINDEX 		20
+#define SHAPEDIRINDEX 		21
+#define SHAPEHEELINDEX 	22
+#define SHAPETOEINDEX 		23
+#define DISSOLVEDIRINDEX 		24
+#define DISSOLVEHEELINDEX 		25
+#define DISSOLVETOEINDEX 		26
+#define CHANCEDIRINDEX 		27
+#define CHANCEHEELINDEX 		28
+#define CHANCETOEINDEX 		29
+#define SMEARDIRINDEX 		30
+#define SMEARHEELINDEX 	31
+#define SMEARTOEINDEX 		32
+#define GLITCHDIRINDEX 		33
+#define GLITCHHEELINDEX 		34
+#define GLITCHTOEINDEX 		35
+#define TIMEDIRINDEX 		36
+#define TIMEHEELINDEX 		37
+#define TIMETOEINDEX 		38
+#define FILTERDIRINDEX 		39
+#define FILTERHEELINDEX 		40
+#define FILTERTOEINDEX 		41
+#define MIXDIRINDEX 	42
+#define MIXHEELINDEX 	43
+#define MIXTOEINDEX 	44
+
+
+#define EXPRESSIONSTART		15
+
+#endif /* INC_PRESET_H_ */

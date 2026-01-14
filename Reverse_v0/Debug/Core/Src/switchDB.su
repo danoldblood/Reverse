@@ -1,0 +1,6 @@
+../Core/Src/switchDB.c:3:6:initSwitch	0	static
+../Core/Src/switchDB.c:11:6:initSwitchMomentary	8	static
+../Core/Src/switchDB.c:20:6:debounce	0	static
+../Core/Src/switchDB.c:48:6:clearHoldFlag	0	static
+../Core/Src/switchDB.c:52:6:clearLongHoldFlag	0	static
+../Core/Src/switchDB.c:56:6:clearAllFlags	0	static

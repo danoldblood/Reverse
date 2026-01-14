@@ -1578,7 +1578,7 @@ void setDissolveTarget(float setting, uint8_t source)
 	}
 	else //if it was a knob
 	{
-		setting*=setting; //shape the tape
+		//setting*=setting; //shape the tape
 	}
 	if(source != EXPRESSION && expBuffer[DISSOLVEDIRINDEX] != 0) //if source wasn't expression, and expression is active
 	{
@@ -1601,8 +1601,8 @@ void setDissolve()
 		reverseClock = 1.0f;*/
 
 	reverseClock = currentSetting[DISSOLVEINDEX];
-	if(reverseClock < 0.1f) //if clock is less than 480 Hz
-		reverseClock = 0.1f; //prevent it from going further
+	if(reverseClock < 0.0208f) //if clock is less than 1kHz
+		reverseClock = 0.0208f; //prevent it from going further
 
 
 	//set clock speeds
